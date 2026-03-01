@@ -19,3 +19,5 @@ decrypted_text = decrypt_AES(key, ciphertext, iv)
 print("Plaintext:", plaintext)
 print("Ciphertext:", ciphertext)
 print("Decrypted Text:", decrypted_text)
+
+pip install pycryptodome
